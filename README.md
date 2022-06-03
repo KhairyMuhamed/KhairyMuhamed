@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khairymuhamed74@gmail.com**
 
-- 📄 See my resume [My Resume](https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing)
+- 📄 See my resume [https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing](https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
