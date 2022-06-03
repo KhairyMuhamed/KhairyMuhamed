@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khairymuhamed74@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing](https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing)
+- 📄 See my resume [My Resume](https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairymuhamed&show_icons=true&locale=en&layout=compact" alt="khairymuhamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khairymuhamed&show_icons=true&locale=en" alt="khairymuhamed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairymuhamed&" alt="khairymuhamed" /></p>
