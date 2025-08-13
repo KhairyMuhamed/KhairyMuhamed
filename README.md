@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Khairy Mohamed</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Khairy Kabaly</h1>
+<h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m working on **Data Science Projects** and looking forward to collaborating on them.
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 💬 Ask me about ** Data Analysis, Time series, Machine Learning, Statistics, Python, SQL server, Power BI, and Excel**
 
-- 💬 Ask me about **python, R, and SQL**
+- 📫 How to reach me **khairykabaly@gmail.com**
 
-- 📫 How to reach me **khairymuhamed74@gmail.com**
-
-- 📄 See my resume [https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing](https://drive.google.com/file/d/1AOEmpA5k82Ko8RIS0ZXvWNZlFkCxisFG/view?usp=sharing)
+<!-- - 📄 See my resume [)*/-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
