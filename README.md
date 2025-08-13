@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **Data Science Projects** and looking forward to collaborating on them.
 
-- 💬 Ask me about ** Data Analysis, Time series, Machine Learning, Statistics, Python, SQL server, Power BI, and Excel**
+- 💬 Ask me about ** Data Analysis, Time series, Machine Learning, Statistics, Python, SQL server, Power BI, AWS (EC2, Lightsail), Docker, Bash, Ubuntu, and Excel**
 
 - 📫 How to reach me **khairykabaly@gmail.com**
 
